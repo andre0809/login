@@ -19,9 +19,8 @@
   <body>
     <form class="form-signin">
       <div class="text-center mb-4">
-        <img class="mb-4" src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
-        <h1 class="h3 mb-3 font-weight-normal">Floating labels</h1>
-        <p>Build form controls with floating labels via the <code>:placeholder-shown</code> pseudo-element. <a href="https://caniuse.com/#feat=css-placeholder-shown">Works in latest Chrome, Safari, and Firefox.</a></p>
+
+        <h1 class="h3 mb-3 font-weight-normal">LOGO HERE</h1>
       </div>
 
       <div class="form-label-group">
