@@ -14,9 +14,13 @@
 <link href="floating-labels.css" rel="stylesheet">
 </head>
 <body>
+      <video autoplay muted loop id="myVideo">
+      <source src="myvideo.mp4" type="video/mp4">
+      Your browser does not support HTML5 video.
+      </video>
             <form class="form-signin">
             <div class="text-center mb-4">
-            <h1 class="h3">LOGO HERE</h1>
+            <h1 class="h3">PUT YOUR LOGO HERE</h1>
             </div>
             <div class="form-label-group">
             <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
